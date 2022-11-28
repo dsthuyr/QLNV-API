@@ -142,7 +142,7 @@
     <value>Tên nhân viên không được phép để trống.</value>
   </data>
   <data name="VN_ValidateError_HaveError" xml:space="preserve">
-    <value>Có lỗi sảy ra, vui lòng liên hệ MISA để được hỗ trợ.</value>
+    <value>Có lỗi sảy ra, vui lòng liên hệ để được hỗ trợ.</value>
   </data>
   <data name="VN_ValidateError_InputNotValid" xml:space="preserve">
     <value>Dữ liệu đầu vào không hợp lệ.</value>

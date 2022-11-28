@@ -39,7 +39,7 @@ namespace QLNV.Core.Resources {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MISA.Core.Resources.ResourceVN", typeof(ResourceVN).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("QLNV.Core.Resources.ResourceVN", typeof(ResourceVN).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -133,7 +133,7 @@ namespace QLNV.Core.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Có lỗi sảy ra, vui lòng liên hệ MISA để được hỗ trợ..
+        ///   Looks up a localized string similar to Có lỗi sảy ra, vui lòng liên hệ để được hỗ trợ..
         /// </summary>
         internal static string VN_ValidateError_HaveError {
             get {
